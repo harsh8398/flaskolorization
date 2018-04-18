@@ -1,2 +1,4 @@
 **/__pycache__/
 **/*.caffemodel
+**/colorized_out/*
+**/user_uploads/*
